@@ -6,7 +6,7 @@ celery==4.2.1
 certifi==2018.11.29
 cffi==1.12.2
 chardet==3.0.4
-cryptography==2.6.1
+cryptography==3.2
 dj-database-url==0.5.0
 Django==2.1.7
 django-heroku==0.3.1
