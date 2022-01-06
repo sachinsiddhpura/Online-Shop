@@ -2,7 +2,7 @@ amqp==2.4.1
 asn1crypto==0.24.0
 billiard==3.5.0.5
 braintree==3.51.0
-celery==4.2.1
+celery==5.2.2
 certifi==2018.11.29
 cffi==1.12.2
 chardet==3.0.4
