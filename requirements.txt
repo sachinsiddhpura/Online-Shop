@@ -22,7 +22,7 @@ paypal==1.2.5
 Pillow==5.4.1
 psycopg2==2.7.7
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2018.9
 razorpay==1.1.1
 requests==2.21.0
